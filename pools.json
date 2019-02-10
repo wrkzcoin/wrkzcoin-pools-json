@@ -1,21 +1,21 @@
 {
     "pools" : [
         {
-            "name" : "pool-sg.wrkz.work",
+            "name" : "Pool-Sg.Wrkz.Work",
             "url" : "https://pool-sg.wrkz.work/",
             "api" : "https://pool-sg.wrkz.work/wrkz-api/",
             "type" : "forknote",
             "miningAddress" : "mining-sg.wrkz.work"
         },
         {
-            "name" : "pool-us.wrkz.work",
+            "name" : "Pool-Us.Wrkz.Work",
             "url" : "https://pool-us.wrkz.work/",
             "api" : "https://pool-us.wrkz.work/wrkz-api/",
             "type" : "forknote",
             "miningAddress" : "mining-us.wrkz.work"
         },
         {
-            "name" : "pool-eu.wrkz.work",
+            "name" : "Pool-Eu.Wrkz.Work",
             "url" : "https://pool-eu.wrkz.work/",
             "api" : "https://pool-eu.wrkz.work/wrkz-api/",
             "type" : "forknote",
