@@ -1,11 +1,32 @@
 {
     "pools" : [
         {
-            "name" : "Pool-Sg.Wrkz.Work",
-            "url" : "https://pool-sg.wrkz.work/",
-            "api" : "https://pool-sg.wrkz.work/wrkz-api/",
-            "type" : "forknote",
-            "miningAddress" : "mining-sg.wrkz.work"
+            "name" : "Cnpoo.Cc",
+            "url" : "https://cnpool.cc/wrkz/",
+            "api" : "https://cnpool.cc/api/wrkz/",
+            "type" : "node.js",
+            "miningAddress" : "wrkz.cnpool.cc"
+        },
+        {
+            "name" : "Dyngepeng.Zapto.Org",
+            "url" : "http://dyngepeng.zapto.org/WRKZ/",
+            "api" : "http://dyngepeng.zapto.org:8113/",
+            "type" : "node.js",
+            "miningAddress" : "dyngepeng.zapto.org"
+        },
+        {
+            "name" : "Flowmine.Xyz",
+            "url" : "https://wrkz.pool.flowmine.xyz/",
+            "api" : "https://wrkz.pool.flowmine.xyz:8112/",
+            "type" : "node.js",
+            "miningAddress" : "wrkz.pool.flowmine.xyz"
+        },
+        {
+            "name" : "Pls.Stx.Nl",
+            "url" : "https://pls.stx.nl/",
+            "api" : "https://pls.stx.nl/wrkz-api/",
+            "type" : "node.js",
+            "miningAddress" : "pls.stx.nl"
         },
         {
             "name" : "Pool-Us.Wrkz.Work",
@@ -13,13 +34,6 @@
             "api" : "https://pool-us.wrkz.work/wrkz-api/",
             "type" : "forknote",
             "miningAddress" : "mining-us.wrkz.work"
-        },
-        {
-            "name" : "Pool-Eu.Wrkz.Work",
-            "url" : "https://pool-eu.wrkz.work/",
-            "api" : "https://pool-eu.wrkz.work/wrkz-api/",
-            "type" : "forknote",
-            "miningAddress" : "mining-eu.wrkz.work"
         }
     ]
 }
