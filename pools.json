@@ -1,6 +1,13 @@
 {
     "pools" : [
         {
+            "name" : "stroppy.tk",
+            "url" : "http://wrkz.stroppy.tk/",
+            "api" : "https://stroppy.ddns.net:8117",
+            "type" : "node.js",
+            "miningAddress" : "stroppy.ddns.net"
+        },
+        {
             "name" : "Cnpoo.Cc",
             "url" : "https://cnpool.cc/wrkz/",
             "api" : "https://cnpool.cc/api/wrkz/",
