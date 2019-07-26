@@ -1,5 +1,12 @@
 {
     "pools" : [
+                {
+            "name" : "stroppyscryptos.net",
+            "url" : "http://wrkz.stroppyscryptos.net/",
+            "api" : "http://wrkzcoinz.ddns.net:8117",
+            "type" : "forknote",
+            "miningAddress" : "wrkzcoinz.ddns.net"
+        },
         {
             "name" : "Cnpoo.Cc",
             "url" : "https://cnpool.cc/wrkz/",
