@@ -22,6 +22,13 @@
             "miningAddress" : "wrkz.pool.flowmine.xyz"
         },
         {
+            "name" : "Miningpool.fun",
+            "url" : "https://wrkz.miningpool.fun/",
+            "api" : "https://wrkz.miningpool.fun:8134/",
+            "type" : "node.js",
+            "miningAddress" : "wrkz.miningpool.fun"
+        },
+        {
             "name" : "Pls.Stx.Nl",
             "url" : "https://pls.stx.nl/",
             "api" : "https://pls.stx.nl/wrkz-api/",
