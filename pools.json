@@ -1,11 +1,32 @@
 {
     "pools" : [
         {
+            "name" : "allcoinzwrkzcoin",
+            "url" : "http://allcoinzwrkzcoin.servebeer.com",
+            "api" : "http://allcoins.servebeer.com:7116",
+            "type" : "forknote",
+            "miningAddress" : "allcoins.servebeer.com"
+        },
+        {
+            "name" : "FastPool",
+            "url" : "https://fastpool.xyz/wrkz/",
+            "api" : "https://fastpool.xyz/api-wrkz",
+            "type" : "forknote",
+            "miningAddress" : "fastpool.xyz"
+        },
+        {
             "name" : "luxflow",
             "url" : "https://wrkz.luxflow.net",
             "api" : "https://wrkz.luxflow.net/api",
-            "type" : "node.js",
+            "type" : "forknote",
             "miningAddress" : "wrkz.luxflow.net"
+        },
+        {
+            "name" : "semiPOOL",
+            "url" : "https://webwrkz.semipool.com",
+            "api" : "https://webwrkz.semipool.com/api",
+            "type" : "node.js",
+            "miningAddress" : "pool.semipool.com"
         }
     ]
 }
